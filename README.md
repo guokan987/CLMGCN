@@ -13,5 +13,5 @@ run(or python) train.py --force True --model Base_GCN --model1 CLGCN  --data dat
 
 You can choose the other datasets: PEMS03,PEMS04,PEMS07 to replace the above PEMS08 or pems08 in run command!
 
-And also, we supply CLMGCN parameters of the trained model including the CLGCN (CL pretraining model) and Base_GCN (Prediction model) in the garage folders! and the data and garage are public by BaiduYun site: https://pan.baidu.com/s/1k2ZEW-IXxDZr7g5mRnsMqw  Key：l709 
+And also, we supply CLMGCN parameters of the trained model including the CLGCN (CL pretraining model) and Base_GCN (Prediction model) in the garage folders! and the data and garage are public by BaiduYun site: 链接：https://pan.baidu.com/s/1NhmvzRAEmbTxXvSMmSNVdQ Key：aqku 
 
